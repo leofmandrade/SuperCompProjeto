@@ -7,4 +7,4 @@ Este relatório descreve o desenvolvimento e a implementação de soluções par
 Desenvolver uma aplicação em C++ que otimize as rotas de uma frota de veículos, minimizando os custos totais das rotas, respeitando as restrições de capacidade dos veículos e as demandas dos clientes.
 
 ## Projeto
-O projeto foi desenvolvido no arquivo, com todas as explicações e detalhamentos escritos nele
+O projeto foi desenvolvido no arquivo **_Cópia_de_Supercomp_Projeto_2024.ipynb_**, com todas as explicações e detalhamentos escritos nele
